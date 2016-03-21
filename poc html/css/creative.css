@@ -475,6 +475,9 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
-button, input, select, textarea {
-  font-size: 25px; /* 1 */
-  }
+input {
+  border-radius: 300px;
+	padding: 13px 20px;
+	font-size: 16px;
+  margin-right: 30px;
+}
